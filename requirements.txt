@@ -7,3 +7,8 @@ numpy
 matplotlib
 ipykernel
 rasterstats
+streamlit
+streamlit-folium
+plotly
+pandas
+folium
