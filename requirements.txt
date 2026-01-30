@@ -1,3 +1,9 @@
 earthengine-api
 geemap
 gdown
+rasterio
+geopandas
+numpy
+matplotlib
+ipykernel
+rasterstats
